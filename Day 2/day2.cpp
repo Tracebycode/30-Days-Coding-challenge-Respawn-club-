@@ -9,6 +9,7 @@ int occurance(int array[], int size, int x) {
         }
     }
     return count;  
+}
 
 int main() {
     int array[] = {10, 24, 19, 26, 27, 31, 33, 35, 42, 44};
